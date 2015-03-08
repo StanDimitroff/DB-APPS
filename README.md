@@ -1,2 +1,0 @@
-# DB-APPS
-Course Homeworks

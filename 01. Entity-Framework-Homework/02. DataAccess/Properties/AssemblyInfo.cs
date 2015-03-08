@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("01.SoftUniDbContext")]
+[assembly: AssemblyTitle("02. DataAccess")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("01.SoftUniDbContext")]
+[assembly: AssemblyProduct("02. DataAccess")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("326fe6df-2a71-4818-970f-953089b57cd3")]
+[assembly: Guid("c72b155a-1e35-4680-99d7-3262895a8788")]
 
 // Version information for an assembly consists of the following four values:
 //
