@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\obj\Debug\StudentSystem.Data.Migrations.InitialCreate.resources
+C:\Users\Stanislav\Desktop\DB-APPS\02. EF-Code-First-Homework\StudentSystem.Data\obj\Debug\StudentSystem.Data.csproj.GenerateResource.Cache
