@@ -13,38 +13,24 @@
 
     class Program
     {
-        static StudentSystemDbContext db = new StudentSystemDbContext();
         static void Main()
         {
            
-            Database.SetInitializer(new MigrateDatabaseToLatestVersion<StudentSystemDbContext, Configuration>());
-            //var db = new StudentSystemDbContext();
-            var students = ListStudentsWithHomeworks();
-            foreach (var student in students)
-            {
-                Console.WriteLine(student.FullName + " ");
-                foreach (var homework in student.Homeworks)
+           Database.SetInitializer(new MigrateDatabaseToLatestVersion<StudentSystemDbContext, Configuration>());
+            
+
+             StudentSystemDbContext db = new StudentSystemDbContext();
+
+                var student = new Student()
                 {
-                    Console.WriteLine(homework.DateSubmitted);
-                }
-            }
+                    FullName = "Steve Jobs",
+                    PhoneNumber = "0986656465",
+                    RegisterDate = DateTime.Parse("2012-11-25"),
+                    Birthday = DateTime.Parse("1986-07-17"),
+                };
 
-
-            //var student = new Student()
-            //{
-            //    FullName = "Steve Jobs",
-            //    PhoneNumber = "0986656465",
-            //    RegisterDate = DateTime.Parse("2012-11-25"),
-            //    Birthday = DateTime.Parse("1986-07-17"),
-            //};
-
-            //db.Students.Add(student);
-            //db.SaveChanges();
-        }
-
-        private static List<Student> ListStudentsWithHomeworks()
-        {
-            return db.Students.Include(s => s.Homeworks).ToList();
+                db.Students.Add(student);
+                db.SaveChanges();
         }
     }
 }
