@@ -22,7 +22,7 @@
         [MaxLength(50)]
         public string Name { get; set; }
 
-        public ResourceType Type { get; set; }
+        public ResourceType? Type { get; set; }
 
         [Required]
         public string Link { get; set; }

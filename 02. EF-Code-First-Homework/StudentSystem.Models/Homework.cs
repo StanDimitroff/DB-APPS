@@ -17,6 +17,7 @@
         [Required]
         public HomeworkType Type { get; set; }
 
+        [Required]
         public DateTime DateSubmitted { get; set; }
 
         public int StudentId { get; set; }

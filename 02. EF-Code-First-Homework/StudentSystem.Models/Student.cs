@@ -29,6 +29,7 @@
         [MaxLength(20)]
         public string PhoneNumber { get; set; }
 
+        [Required]
         public DateTime RegisterDate { get; set; }
 
         [Required]

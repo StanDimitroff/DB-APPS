@@ -15,7 +15,7 @@
 
         public DbSet<Course> Courses { get; set; }
 
-        public DbSet<Resource> Resource { get; set; }
+        public DbSet<Resource> Resources { get; set; }
 
         public DbSet<Homework> Homeworks { get; set; }
     }
