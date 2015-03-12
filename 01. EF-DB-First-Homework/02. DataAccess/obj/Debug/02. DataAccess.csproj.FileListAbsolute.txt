@@ -1,0 +1,12 @@
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\_02.DataAccess.exe.config
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\_02.DataAccess.exe
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\_02.DataAccess.pdb
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\_01.SoftUniDbContext.dll
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\_01.SoftUniDbContext.pdb
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\obj\Debug\02. DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\obj\Debug\_02.DataAccess.exe
+C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\02. DataAccess\obj\Debug\_02.DataAccess.pdb
