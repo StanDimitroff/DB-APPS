@@ -1,1 +1,0 @@
-C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\06. ConcurencyDbChanges\bin\Debug\_06.ConcurencyDbChanges.exe.config

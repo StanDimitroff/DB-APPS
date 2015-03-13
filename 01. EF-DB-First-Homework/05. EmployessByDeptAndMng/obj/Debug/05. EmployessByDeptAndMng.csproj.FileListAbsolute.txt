@@ -1,1 +1,0 @@
-C:\Users\Stanislav\Desktop\DB-APPS\01. EF-DB-First-Homework\05. EmployessByDeptAndMng\bin\Debug\_05.EmployessByDeptAndMng.exe.config
