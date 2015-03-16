@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\03. ExtractArtists\bin\Debug\_03.ExtractArtists.exe.config
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\03. ExtractArtists\bin\Debug\_03.ExtractArtists.exe
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\03. ExtractArtists\bin\Debug\_03.ExtractArtists.pdb
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\03. ExtractArtists\obj\Debug\_03.ExtractArtists.exe
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\03. ExtractArtists\obj\Debug\_03.ExtractArtists.pdb

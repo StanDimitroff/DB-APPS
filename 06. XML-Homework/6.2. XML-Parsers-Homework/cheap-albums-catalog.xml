@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Third</name>
+    <artist>Metllica</artist>
+    <year>2009</year>
+    <producer>Tim Jonhson</producer>
+    <price>18.99</price>
+    <songs>
+      <song>
+        <title>Biscuit</title>
+        <duration>3:49</duration>
+      </song>
+    </songs>
+  </album>
+</albums>

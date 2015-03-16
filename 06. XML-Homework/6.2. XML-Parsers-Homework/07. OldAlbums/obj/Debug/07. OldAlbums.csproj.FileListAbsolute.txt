@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\07. OldAlbums\bin\Debug\_07.OldAlbums.exe.config
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\07. OldAlbums\bin\Debug\_07.OldAlbums.exe
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\07. OldAlbums\bin\Debug\_07.OldAlbums.pdb
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\07. OldAlbums\obj\Debug\_07.OldAlbums.exe
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\07. OldAlbums\obj\Debug\_07.OldAlbums.pdb

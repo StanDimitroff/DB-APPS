@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\02. DomParser\bin\Debug\_02.DomParser.exe.config
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\02. DomParser\obj\Debug\_02.DomParser.exe
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\02. DomParser\obj\Debug\_02.DomParser.pdb
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\02. DomParser\bin\Debug\_02.DomParser.exe
+C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\02. DomParser\bin\Debug\_02.DomParser.pdb

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students xmlns:students="urn:students" schemaLocation="students.xsd">
+  <student>
+    <name>Steve Dimitrov</name>
+    <gender>Male</gender>
+    <birthdate>1986-07-17</birthdate>
+    <phone-number>12345678</phone-number>
+    <email>steve@outlook.com</email>
+    <university>SoftUni</university>
+    <specialty>Computer Science</specialty>
+    <faculty-number>12674</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>C# Basics</name>
+        <date-taken>2014-04-12</date-taken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <name>JS Basics</name>
+        <date-taken>2014-07-21</date-taken>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>OOP</name>
+        <date-taken>2014-10-29</date-taken>
+        <grade>6</grade>
+      </exam>
+    </taken-exams>
+  </student>
+  <student>
+    <name>Pete Hristov</name>
+    <gender>Male</gender>
+    <birthdate>1988-09-12</birthdate>
+    <phone-number>445453-33434</phone-number>
+    <email>pete@outlook.co.uk</email>
+    <university>TU Sofia</university>
+    <specialty>Physics</specialty>
+    <faculty-number>8787546</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>Psysics 1</name>
+        <date-taken>2013-12-23</date-taken>
+        <grade>4</grade>
+      </exam>
+      <exam>
+        <name>Psysics 2</name>
+        <date-taken>2014-03-21</date-taken>
+        <grade>5</grade>
+      </exam>
+    </taken-exams>
+  </student>
+  <student>
+    <name>Dani Petkova</name>
+    <gender>Female</gender>
+    <birthdate>1992-10-21</birthdate>
+    <phone-number>6765767-454</phone-number>
+    <email>dani@gmail.com</email>
+    <university>UNSS</university>
+    <specialty>Economics</specialty>
+    <faculty-number>345656</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>Calcius</name>
+        <date-taken>2012-04-02</date-taken>
+        <grade>3</grade>
+      </exam>
+    </taken-exams>
+  </student>
+</students>
