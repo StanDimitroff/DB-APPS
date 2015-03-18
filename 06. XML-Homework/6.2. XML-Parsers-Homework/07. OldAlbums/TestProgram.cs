@@ -20,7 +20,6 @@
                 {
                     Console.WriteLine("Title = {0}, Price = {1}", album.SelectSingleNode("name").InnerText, album.SelectSingleNode("price").InnerText);
                 }
-                
             }
         }
     }

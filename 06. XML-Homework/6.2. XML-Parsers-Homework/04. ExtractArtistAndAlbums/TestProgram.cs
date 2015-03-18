@@ -15,10 +15,24 @@
             XmlDocument doc = new XmlDocument();
             doc.Load("../../../catalog.xml");
             XmlNode rootNode = doc.DocumentElement;
-            Dictionary<string, int> artistsAlbums = new Dictionary<string, int>();
-            foreach (XmlNode node in rootNode.ChildNodes)
+            Dictionary<string, int> artistAlbums = new Dictionary<string, int>();
+
+            foreach (XmlNode node in rootNode)
             {
-                //artists.Add(node["artist"].InnerText);
+                var artist = node["artist"].InnerText;
+                if (artistAlbums.ContainsKey(artist))
+                {
+                    artistAlbums[artist] = artistAlbums[artist] + 1;
+                }
+                else
+                {
+                    artistAlbums[artist] = 1;
+                }
+            }
+
+            foreach (var album in artistAlbums)
+            {
+                Console.WriteLine("{0} -> {1}", album.Key, album.Value);
             }
         }
     }

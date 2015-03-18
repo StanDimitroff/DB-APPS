@@ -20,7 +20,7 @@
                 }
             }
 
-            doc.Save("../../../cheap-albums-catalog.xml");
+            doc.Save("../../cheap-albums-catalog.xml");
         }
     }
 }

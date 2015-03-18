@@ -14,7 +14,7 @@
     </songs>
   </album>
   <album>
-    <name>Dummy</name>
+    <!--<name>Dummy</name>-->
     <artist>Portishead</artist>
     <year>2014</year>
     <producer>Bryan Scott</producer>
@@ -35,27 +35,6 @@
     <songs>
       <song>
         <title>Biscuit</title>
-        <duration>3:49</duration>
-      </song>
-    </songs>
-  </album>
-  <album>
-    <name>OK Computer</name>
-    <artist>Radiohead</artist>
-    <year>2011</year>
-    <producer>Clif Burrows</producer>
-    <price>20.50</price>
-    <songs>
-      <song>
-        <title>It Could Be Sweet</title>
-        <duration>5:06</duration>
-      </song>
-      <song>
-        <title>Strangers</title>
-        <duration>4:11</duration>
-      </song>
-      <song>
-        <title>Mysterons</title>
         <duration>3:49</duration>
       </song>
     </songs>

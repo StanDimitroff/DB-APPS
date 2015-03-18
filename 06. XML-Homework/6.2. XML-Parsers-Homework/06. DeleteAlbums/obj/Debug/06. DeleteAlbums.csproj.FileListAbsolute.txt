@@ -1,5 +1,0 @@
-C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\06. DeleteAlbums\bin\Debug\_06.DeleteAlbums.exe.config
-C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\06. DeleteAlbums\bin\Debug\_06.DeleteAlbums.exe
-C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\06. DeleteAlbums\bin\Debug\_06.DeleteAlbums.pdb
-C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\06. DeleteAlbums\obj\Debug\_06.DeleteAlbums.exe
-C:\Users\Stanislav\Desktop\6.2. XML-Parsers-Homework\06. DeleteAlbums\obj\Debug\_06.DeleteAlbums.pdb

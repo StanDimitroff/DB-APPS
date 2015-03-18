@@ -5,8 +5,8 @@
     using System.Xml;
     class TestProgram
     {
-        //Write a program that extracts all artists in alphabetical order from catalog.xml. Use the DOM parser.
-        //Keep the artists in a SortedSet<string> to avoid duplicates and to keep the artist in alphabetical order.
+        // Write a program that extracts all artists in alphabetical order from catalog.xml. Use the DOM parser.
+        // Keep the artists in a SortedSet<string> to avoid duplicates and to keep the artist in alphabetical order.
         static void Main()
         {
             XmlDocument doc = new XmlDocument();

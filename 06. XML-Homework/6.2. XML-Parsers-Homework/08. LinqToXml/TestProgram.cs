@@ -6,6 +6,8 @@
 
     class TestProgram
     {
+        // Write a program, which extract from the file catalog.xml the titles and prices for all albums, published 5 years ago or earlier.
+        // Use XDocument and LINQ to XML query.
         static void Main()
         {
             XDocument doc = XDocument.Load("../../../catalog.xml");
@@ -19,7 +21,7 @@
     };
             foreach (var album in albums)
             {
-                Console.WriteLine(album);
+                Console.WriteLine("Title = {0}, Price = {1}", album.Title, album.Price);
             }
         }
     }
