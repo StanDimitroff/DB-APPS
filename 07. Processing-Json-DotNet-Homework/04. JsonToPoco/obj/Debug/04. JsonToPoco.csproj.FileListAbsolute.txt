@@ -1,0 +1,8 @@
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\bin\Debug\_04.JsonToPoco.exe.config
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\bin\Debug\_04.JsonToPoco.exe
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\bin\Debug\_04.JsonToPoco.pdb
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\obj\Debug\04. JsonToPoco.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\obj\Debug\_04.JsonToPoco.exe
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\04. JsonToPoco\obj\Debug\_04.JsonToPoco.pdb

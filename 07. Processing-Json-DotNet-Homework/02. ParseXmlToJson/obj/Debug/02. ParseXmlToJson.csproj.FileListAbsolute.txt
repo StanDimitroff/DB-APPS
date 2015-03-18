@@ -1,0 +1,8 @@
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\bin\Debug\_02.ParseXmlToJson.exe.config
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\bin\Debug\_02.ParseXmlToJson.exe
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\bin\Debug\_02.ParseXmlToJson.pdb
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\obj\Debug\02. ParseXmlToJson.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\obj\Debug\_02.ParseXmlToJson.exe
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\obj\Debug\_02.ParseXmlToJson.pdb

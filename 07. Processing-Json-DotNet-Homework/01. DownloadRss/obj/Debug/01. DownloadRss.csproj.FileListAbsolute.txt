@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\01. DownloadRss\bin\Debug\_01.DownloadRss.exe.config
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\01. DownloadRss\bin\Debug\_01.DownloadRss.exe
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\01. DownloadRss\bin\Debug\_01.DownloadRss.pdb
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\01. DownloadRss\obj\Debug\01. DownloadRss.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\01. DownloadRss\obj\Debug\_01.DownloadRss.exe
+C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\01. DownloadRss\obj\Debug\_01.DownloadRss.pdb
