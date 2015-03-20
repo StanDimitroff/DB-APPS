@@ -1,8 +1,0 @@
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\bin\Debug\_03.PrintAllQuestionTitles.exe.config
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\bin\Debug\_03.PrintAllQuestionTitles.exe
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\bin\Debug\_03.PrintAllQuestionTitles.pdb
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\obj\Debug\_03.PrintAllQuestionTitles.exe
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\obj\Debug\_03.PrintAllQuestionTitles.pdb
-C:\Users\Stanislav\Desktop\07. Processing-Json-DotNet-Homework\03. PrintAllQuestionTitles\obj\Debug\03. PrintAllQuestionTitles.csprojResolveAssemblyReference.cache

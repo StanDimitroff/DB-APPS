@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PrintAllQuestionTitles"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. JsonToPoco", "04. JsonToPoco\04. JsonToPoco.csproj", "{4F88E303-627F-46D8-81A9-35C6CBDCFB00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. PocoToHtml", "05. PocoToHtml\05. PocoToHtml.csproj", "{63FAD49F-3A3E-4B74-8F2C-B11022464D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4F88E303-627F-46D8-81A9-35C6CBDCFB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F88E303-627F-46D8-81A9-35C6CBDCFB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F88E303-627F-46D8-81A9-35C6CBDCFB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FAD49F-3A3E-4B74-8F2C-B11022464D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FAD49F-3A3E-4B74-8F2C-B11022464D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FAD49F-3A3E-4B74-8F2C-B11022464D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FAD49F-3A3E-4B74-8F2C-B11022464D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

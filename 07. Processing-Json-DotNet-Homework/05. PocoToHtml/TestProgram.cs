@@ -1,14 +1,16 @@
-﻿namespace JsonToPoco
+﻿namespace PocoToHtml
 {
     using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using JsonToPoco;
     using System.IO;
     using Newtonsoft.Json;
-    using System.Linq;
     using Newtonsoft.Json.Linq;
 
     class TestProgram
     {
-        // Parse the JSON string to POCO
         static void Main()
         {
             var json = File.ReadAllText("../../../softuni-rss.json");
@@ -16,10 +18,16 @@
 
             var news = jsonObject["rss"]["channel"]["item"].ToList();
             var items = news.Select(item => JsonConvert.DeserializeObject<Item>(item.ToString())).ToList();
-            foreach (var item in items)
+          
+            var result = new StringBuilder();
+            result.Append("<!DOCTYPE html ><html><head><meta charset=\"utf-8\"></head><body>");
+            foreach (var question in items)
             {
-                Console.WriteLine(item.Title);
+                result.Append(question.ToString());
             }
+
+            result.Append("</body></html>");
+            File.WriteAllText("../../questions.html", result.ToString());
         }
     }
 }
