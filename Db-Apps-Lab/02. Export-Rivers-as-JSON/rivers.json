@@ -1,0 +1,286 @@
+[
+    {
+        "Name": "Nile",
+        "Length": 6650,
+        "Countries": [
+            "Burundi",
+            "Democratic Republic of the Congo",
+            "Egypt",
+            "Eritrea",
+            "Ethiopia",
+            "Kenya",
+            "Rwanda",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Uganda"
+        ]
+    },
+    {
+        "Name": "Amazon",
+        "Length": 6400,
+        "Countries": [
+            "Bolivia",
+            "Brazil",
+            "Colombia",
+            "Ecuador",
+            "Guyana",
+            "Peru",
+            "Venezuela"
+        ]
+    },
+    {
+        "Name": "Yangtze",
+        "Length": 6300,
+        "Countries": [
+            "China"
+        ]
+    },
+    {
+        "Name": "Mississippi",
+        "Length": 6275,
+        "Countries": [
+            "Canada",
+            "United States"
+        ]
+    },
+    {
+        "Name": "Yenisei",
+        "Length": 5539,
+        "Countries": [
+            "Mongolia",
+            "Russia"
+        ]
+    },
+    {
+        "Name": "Yellow River",
+        "Length": 5464,
+        "Countries": [
+            "China"
+        ]
+    },
+    {
+        "Name": "Ob",
+        "Length": 5410,
+        "Countries": [
+            "China",
+            "Kazakhstan",
+            "Mongolia",
+            "Russia"
+        ]
+    },
+    {
+        "Name": "Paraná",
+        "Length": 4880,
+        "Countries": [
+            "Argentina",
+            "Bolivia",
+            "Brazil",
+            "Paraguay",
+            "Uruguay"
+        ]
+    },
+    {
+        "Name": "Congo",
+        "Length": 4700,
+        "Countries": [
+            "Angola",
+            "Burundi",
+            "Cameroon",
+            "Central African Republic",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Rwanda",
+            "Tanzania",
+            "Zambia"
+        ]
+    },
+    {
+        "Name": "Amur",
+        "Length": 4444,
+        "Countries": [
+            "China",
+            "Mongolia",
+            "Russia"
+        ]
+    },
+    {
+        "Name": "Lena",
+        "Length": 4400,
+        "Countries": [
+            "Russia"
+        ]
+    },
+    {
+        "Name": "Mekong",
+        "Length": 4350,
+        "Countries": [
+            "Cambodia",
+            "China",
+            "Laos",
+            "Myanmar",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+    {
+        "Name": "Mackenzie",
+        "Length": 4241,
+        "Countries": [
+            "Canada"
+        ]
+    },
+    {
+        "Name": "Niger",
+        "Length": 4200,
+        "Countries": [
+            "Algeria",
+            "Benin",
+            "Burkina Faso",
+            "Cameroon",
+            "Chad",
+            "Guinea",
+            "Mali",
+            "Niger",
+            "Nigeria"
+        ]
+    },
+    {
+        "Name": "Murray",
+        "Length": 3672,
+        "Countries": [
+            "Australia"
+        ]
+    },
+    {
+        "Name": "Tocantins",
+        "Length": 3650,
+        "Countries": [
+            "Brazil"
+        ]
+    },
+    {
+        "Name": "Volga",
+        "Length": 3645,
+        "Countries": [
+            "Russia"
+        ]
+    },
+    {
+        "Name": "Shatt al-Arab",
+        "Length": 3596,
+        "Countries": [
+            "Iraq",
+            "Syria",
+            "Turkey"
+        ]
+    },
+    {
+        "Name": "Madeira",
+        "Length": 3380,
+        "Countries": [
+            "Bolivia",
+            "Brazil",
+            "Peru"
+        ]
+    },
+    {
+        "Name": "Purús",
+        "Length": 3211,
+        "Countries": [
+            "Brazil",
+            "Peru"
+        ]
+    },
+    {
+        "Name": "Yukon",
+        "Length": 3185,
+        "Countries": [
+            "Canada",
+            "United States"
+        ]
+    },
+    {
+        "Name": "Indus",
+        "Length": 3180,
+        "Countries": [
+            "China",
+            "India",
+            "Pakistan"
+        ]
+    },
+    {
+        "Name": "São Francisco",
+        "Length": 3180,
+        "Countries": [
+            "Brazil"
+        ]
+    },
+    {
+        "Name": "Syr Darya",
+        "Length": 3078,
+        "Countries": [
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Tajikistan",
+            "Uzbekistan"
+        ]
+    },
+    {
+        "Name": "Salween",
+        "Length": 3060,
+        "Countries": [
+            "China",
+            "Myanmar",
+            "Thailand"
+        ]
+    },
+    {
+        "Name": "Saint Lawrence",
+        "Length": 3058,
+        "Countries": [
+            "Canada",
+            "United States"
+        ]
+    },
+    {
+        "Name": "Rio Grande",
+        "Length": 3057,
+        "Countries": [
+            "Mexico",
+            "United States"
+        ]
+    },
+    {
+        "Name": "Lower Tunguska",
+        "Length": 2989,
+        "Countries": [
+            "Russia"
+        ]
+    },
+    {
+        "Name": "Brahmaputra",
+        "Length": 2948,
+        "Countries": [
+            "Bangladesh",
+            "Bhutan",
+            "China",
+            "India",
+            "Nepal"
+        ]
+    },
+    {
+        "Name": "Danube",
+        "Length": 2888,
+        "Countries": [
+            "Austria",
+            "Bulgaria",
+            "Croatia",
+            "Germany",
+            "Hungary",
+            "Romania",
+            "Serbia",
+            "Slovakia"
+        ]
+    }
+]

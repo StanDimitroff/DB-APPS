@@ -1,0 +1,1 @@
+C:\Users\Stanislav\Desktop\DB-APPS\07. Processing-Json-DotNet-Homework\01. DownloadRss\bin\Debug\_01.DownloadRss.exe.config
