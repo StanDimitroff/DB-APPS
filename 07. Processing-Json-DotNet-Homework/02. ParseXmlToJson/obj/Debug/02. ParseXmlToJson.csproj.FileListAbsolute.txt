@@ -1,1 +1,0 @@
-C:\Users\Stanislav\Desktop\DB-APPS\07. Processing-Json-DotNet-Homework\02. ParseXmlToJson\bin\Debug\_02.ParseXmlToJson.exe.config

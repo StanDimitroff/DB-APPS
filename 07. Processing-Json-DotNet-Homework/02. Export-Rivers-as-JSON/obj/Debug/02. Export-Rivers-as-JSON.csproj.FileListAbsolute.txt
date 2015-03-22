@@ -1,1 +1,0 @@
-C:\Users\Stanislav\Desktop\DB-APPS\07. Processing-Json-DotNet-Homework\02. Export-Rivers-as-JSON\bin\Debug\_02.Export_Rivers_as_JSON.exe.config
