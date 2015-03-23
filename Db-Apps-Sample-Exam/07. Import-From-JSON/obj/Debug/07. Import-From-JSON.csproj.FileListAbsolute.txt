@@ -1,1 +1,0 @@
-C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\_07.Import_From_JSON.exe.config
