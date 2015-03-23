@@ -1,0 +1,1 @@
+C:\Users\Stanislav\Desktop\DB-APPS\07. Processing-Json-DotNet-Homework\04. JsonToPoco\bin\Debug\_04.JsonToPoco.exe.config

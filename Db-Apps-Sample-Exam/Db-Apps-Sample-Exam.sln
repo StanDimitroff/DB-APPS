@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. EF-Mappings", "01. EF-Mappings\01. EF-Mappings.csproj", "{26764C37-7C8F-427A-9C05-019C02A00271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Export-Rivers-As-JSON", "02. Export-Rivers-As-JSON\02. Export-Rivers-As-JSON.csproj", "{ED4652FC-DBB1-4E81-9987-2768451C2946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Export-Monasteries-As-XML", "03. Export-Monasteries-As-XML\03. Export-Monasteries-As-XML.csproj", "{CCA65550-A7B8-425B-ADB5-1A5A72FBAB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Import-Rivers-from-XML", "04. Import-Rivers-from-XML\04. Import-Rivers-from-XML.csproj", "{1355FF9D-5FED-4D60-9CCB-955C20A23DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Mountains-Code-First", "06. Mountains-Code-First\06. Mountains-Code-First.csproj", "{FCB5F6B9-F219-4874-ABE0-02EDBA47F2AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Import-Mountains-From-JSON", "07. Import-From-JSON\07. Import-Mountains-From-JSON.csproj", "{B9BFBEEE-C3DF-4051-9D10-7BEAAE5B6521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26764C37-7C8F-427A-9C05-019C02A00271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26764C37-7C8F-427A-9C05-019C02A00271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26764C37-7C8F-427A-9C05-019C02A00271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26764C37-7C8F-427A-9C05-019C02A00271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4652FC-DBB1-4E81-9987-2768451C2946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4652FC-DBB1-4E81-9987-2768451C2946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4652FC-DBB1-4E81-9987-2768451C2946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4652FC-DBB1-4E81-9987-2768451C2946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA65550-A7B8-425B-ADB5-1A5A72FBAB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA65550-A7B8-425B-ADB5-1A5A72FBAB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA65550-A7B8-425B-ADB5-1A5A72FBAB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA65550-A7B8-425B-ADB5-1A5A72FBAB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1355FF9D-5FED-4D60-9CCB-955C20A23DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1355FF9D-5FED-4D60-9CCB-955C20A23DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1355FF9D-5FED-4D60-9CCB-955C20A23DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1355FF9D-5FED-4D60-9CCB-955C20A23DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB5F6B9-F219-4874-ABE0-02EDBA47F2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB5F6B9-F219-4874-ABE0-02EDBA47F2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB5F6B9-F219-4874-ABE0-02EDBA47F2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB5F6B9-F219-4874-ABE0-02EDBA47F2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BFBEEE-C3DF-4051-9D10-7BEAAE5B6521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BFBEEE-C3DF-4051-9D10-7BEAAE5B6521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BFBEEE-C3DF-4051-9D10-7BEAAE5B6521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BFBEEE-C3DF-4051-9D10-7BEAAE5B6521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

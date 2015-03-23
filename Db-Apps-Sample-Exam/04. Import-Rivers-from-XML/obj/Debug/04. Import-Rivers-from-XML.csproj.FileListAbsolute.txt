@@ -1,0 +1,12 @@
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\_04.Import_Rivers_from_XML.exe.config
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\_04.Import_Rivers_from_XML.exe
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\_04.Import_Rivers_from_XML.pdb
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\EntityFramework.dll
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\_01.EF_Mappings.exe
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\_01.EF_Mappings.pdb
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\EntityFramework.xml
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\obj\Debug\04. Import-Rivers-from-XML.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\obj\Debug\_04.Import_Rivers_from_XML.exe
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\04. Import-Rivers-from-XML\obj\Debug\_04.Import_Rivers_from_XML.pdb

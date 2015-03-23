@@ -1,0 +1,10 @@
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\bin\Debug\_05.Mountains_Code_First.exe.config
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\bin\Debug\_05.Mountains_Code_First.exe
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\bin\Debug\_05.Mountains_Code_First.pdb
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\bin\Debug\EntityFramework.dll
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\bin\Debug\EntityFramework.xml
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\obj\Debug\05. Mountains-Code-First.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\obj\Debug\_05.Mountains_Code_First.exe
+C:\Users\Stanislav\Desktop\DB-APPS\Db-Apps-Lab\05. Mountains-Code-First\obj\Debug\_05.Mountains_Code_First.pdb

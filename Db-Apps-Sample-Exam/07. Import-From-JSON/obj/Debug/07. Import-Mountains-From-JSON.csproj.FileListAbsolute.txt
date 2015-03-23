@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\_07.Import_From_JSON.exe.config
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\_07.Import_From_JSON.exe
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\_07.Import_From_JSON.pdb
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\EntityFramework.dll
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\_06.Mountains_Code_First.exe
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\_06.Mountains_Code_First.pdb
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\EntityFramework.xml
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\obj\Debug\07. Import-Mountains-From-JSON.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\obj\Debug\_07.Import_From_JSON.exe
+C:\Users\Stanislav\Desktop\Db-Apps-Sample-Exam\07. Import-From-JSON\obj\Debug\_07.Import_From_JSON.pdb
