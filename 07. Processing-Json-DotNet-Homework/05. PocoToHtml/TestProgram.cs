@@ -13,6 +13,8 @@
     {
         static void Main()
         {
+            // Using the parsed objects create a HTML page that lists all questions from the RSS their categories
+            // and a link to the question’s page
             var json = File.ReadAllText("../../../softuni-rss.json");
             JObject jsonObject = JObject.Parse(json);
 
